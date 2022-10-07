@@ -1391,7 +1391,7 @@ a[class*=card]:hover .title {
 .item-option-select {
   margin-bottom: 1rem;
   display: inline-block;
-  margin-right: 15px;
+  margin-right: 2rem;
 }
 .item-option-select .btn {
   min-width: 80px;
